@@ -27,8 +27,13 @@ weight = 10
   name = "Publications"
   url = "publication"
   weight = 50
-
+  
+[[main]]
+  name = "NIM Headquarters"
+  url = "https://nim.ng/"
+  weight = 60  
+  
 [[main]]
   name = "Contact"
   url = "contact"
-  weight = 60
+  weight = 70
