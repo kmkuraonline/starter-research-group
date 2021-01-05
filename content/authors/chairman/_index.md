@@ -13,7 +13,7 @@ organizations:
   url: "https://abu.edu.ng/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include technology management, operations Management,  business project management and human resource management.
+bio: My professional interests include technology management, operations Management,  business project management and human resource management.
 
 interests:
 - Technology Management
