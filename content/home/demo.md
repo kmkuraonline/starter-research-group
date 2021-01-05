@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-### Nigerian Institute of Management (Chartered) – Zaria Chapter
+## Nigerian Institute of Management (Chartered) – Zaria Chapter
 
