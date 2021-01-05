@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Kabiru Maitama Kura
+title: Mercy Adah Onu, MNIM
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chairman
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Ahmadu Bello University, Zaria-Nigeria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,13 +24,13 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: Ahmadu Bello University
     year: 2012
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Ahmadu Bello University
     year: 2009
   - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: Ahmadu Bello University
     year: 2008
 
 # Social/Academic Networking
@@ -68,6 +68,16 @@ user_groups:
 - Executive Council
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div class=text-justify> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mercy Adah Onu is a is a Chartered Accountant by profession. Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.
+
+</div>
+
+
+
+<div class=text-justify>  </div>
+
+Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.Mercy Adah Onu is a is a Chartered Accountant by profession.
+
+</div>
