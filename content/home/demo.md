@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-#### ...Promoting Research Excellence
+#### Nigerian Institute of Management (Chartered) – Zaria Chapter
 
