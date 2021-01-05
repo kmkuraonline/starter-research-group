@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Who we are"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+<div class=text-justify>  The Nigerian Institute of Management (NIM) was established in 1961 when a general meeting of top managers in Commerce, Industry and Government was convened to discuss the formation of a management Institute in Nigeria. Subsequently, the Nigerian Management Group was formed. The Group was immediately accorded recognition by many international institutions like the British Institute of Management, American Management Association etc. In January, 1964, the Nigerian Management Group changed its name to Nigerian Institute of Management and was duly incorporated under the Nigerian Companies Act , Cap. 37 as a non-profit making company,limited by Guarantee and not having a share capital. </div>
