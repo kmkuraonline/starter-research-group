@@ -146,7 +146,7 @@ address_format = "en-us"
 main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = false, show_language = false, show_day_night = true, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 logo = "logo.png"
 
